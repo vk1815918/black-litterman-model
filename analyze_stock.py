@@ -11,8 +11,6 @@
 #-------------------------------------------
 
 import PySimpleGUI as sg
-import Analysis1v3
-import Analysis2v3
 import Analysis3v3
 
 # define function get_user_input() - user input
